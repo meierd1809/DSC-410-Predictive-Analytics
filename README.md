@@ -5,14 +5,14 @@
 
 ### Assignment Topics:
 
-1) Data Cleaning
+1) Data Wrangling
 2) Exploratory Data Analysis (EDA)
      - Correlations
      - Box Plots (Outliers)
      - Histograms
 3) Feature Engineering
-     - Encoding
-     - Scaling
+     - Encoding (One-Hot, Ordinal, Label)
+     - Scaling (Standard, MinMax)
 4) Model Selection
      - Regression
      - Classification
